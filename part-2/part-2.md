@@ -52,9 +52,9 @@ In the OAS (OpenAPI Specification), it is more along the lines of:
 8. Examples (Parameters, Objects, and Properties)
     
 
-We’ll go into its definition for most of these as we move forward.
+We’ll go into its definition for most of these as we move forward in the series.
 
-Let’s look into API Reference and its differences via this table below:
+API references and user guides are quite different, some may think they should have the same format, but actually they should not. Let’s look into API Reference and its differences with tutorials and guides via this table below:
 
 | API Reference | Tutorials/User Guides |
 | --- | --- |
